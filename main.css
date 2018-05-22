@@ -1,3 +1,10 @@
 section h1 {
     font-size: 2em;
 }
+main-article h1 {
+    font-size: 2em;
+}
+
+.missionStatementHeader {
+    font-size: 4em;
+}
